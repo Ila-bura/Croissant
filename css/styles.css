@@ -18,7 +18,8 @@ footer a {
 }
 
 .croissant-photo {
-  max-width: 100%;
+  max-width: 70%;
+  max-height: fit-content;
   display: block;
   margin: 30px auto;
   border-radius: 10px;
